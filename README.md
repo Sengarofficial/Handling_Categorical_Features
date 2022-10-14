@@ -46,6 +46,8 @@ If you want to read about all 15 types of encoding, here is a very good article 
 
 Here is a cheat sheet on when to use what type of encoding:
 
+![alt text](https://github.com/Sengarofficial/Handling_Categorical_Features/blob/master/garg_cat_variables_15.jpg)
+
 
  
 
