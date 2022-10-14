@@ -1,5 +1,13 @@
-# Handling_Categorical_Features:
+## Handling_Categorical_Features:
+One-hot Encoding using
+Python’s category_encoding library
+Scikit-learn preprocessing
+Pandas' get_dummies
 
-##### One Hot Encoding 
+Binary Encoding
+Frequency Encoding
+Label Encoding
+Ordinal Encoding
+ 
 
-##### Label Encoder 
+
