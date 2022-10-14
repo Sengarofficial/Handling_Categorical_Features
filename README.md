@@ -49,6 +49,47 @@ Here is a cheat sheet on when to use what type of encoding:
 ![alt text](https://github.com/Sengarofficial/Handling_Categorical_Features/blob/master/garg_cat_variables_15.jpg)
 
 
+## Authors
+
+- [@Sengarofficial](https://www.github.com/Sengarofficial)
+
+
+## Contributing
+
+Contributions are always welcome!
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+pip install -r requirements.txt
+```
+
+
+## Documentation
+
+https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02
+https://pypi.org/project/category-encoders/
+https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at grv.m02@gmail.com
+
+
+## 🚀 About Me
+| Python Engineer | Machine Learning Engineer | Deep Learning Enthusiasts | Analyst | Electrical & Electronics Engineer | On the Way to Full Stack Developer....
+
+
+
+## License 
+
+The Unlicense 
+
+ 
  
 
 
