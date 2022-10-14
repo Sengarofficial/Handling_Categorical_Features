@@ -70,8 +70,10 @@ pip install -r requirements.txt
 
 ## Documentation
 
-https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02 .
-https://pypi.org/project/category-encoders/ .
+https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02 
+
+https://pypi.org/project/category-encoders/ 
+
 https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html .
 
 
